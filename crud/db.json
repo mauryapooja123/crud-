@@ -1,0 +1,22 @@
+{
+  "student": [
+    {
+      "id": 1,
+      "name": "pooja",
+      "email": "pooja@123",
+      "password": "1@2"
+    },
+    {
+      "id": 2,
+      "name": "anshika",
+      "email": "pooja@123",
+      "password": "123@123"
+    },
+    {
+      "id": 3,
+      "name": "anshu",
+      "email": "pooja@123",
+      "password": "123@123"
+    }
+  ]
+}
